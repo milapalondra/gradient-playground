@@ -1,0 +1,43 @@
+body{
+  background-color: #18c1cd;
+}
+.n1{
+  display: flex;
+}
+.grad1 {
+	background-image: linear-gradient(to right, #1e00ff, black);
+  /edit the line above to specify the gradient direction/
+ width: 300px;
+  height: 300px;
+  border: white groove 4px;
+  color: white;
+  text-align: center;
+  font-size: 20px
+}
+.grad2 {
+	background-image: linear-gradient(to left, #1e00ff, black);
+  width: 300px;
+  height: 300px;
+  border: white groove 4px;
+  color: white;
+  text-align: center;
+  font-size: 20px
+}
+.grad3 {
+	background-image: linear-gradient(to bottom, #1e00ff, black);
+  width: 300px;
+  height: 300px;
+  border: white groove 4px;
+  color: white;
+  text-align: center;
+  font-size: 20px
+}
+.grad4 {
+	background-image: linear-gradient(to top, #1e00ff, black);
+  width: 300px;
+  height: 300px;
+  border: white groove 4px;
+  color: white;
+  text-align: center;
+  font-size: 20px
+}
